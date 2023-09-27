@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-608804353406365956
+--- !u!114 &-4101125674128650281
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Water
-  m_Shader: {fileID: -6465566751694194690, guid: 02437a0e328aad84e8810d35455831db, type: 3}
+  m_Name: Bad Wtaer
+  m_Shader: {fileID: -6465566751694194690, guid: ee31d85598f014a4e96d90ffd1a2cb55, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -76,14 +76,6 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _SampleTexture2D_73bdb0300ee74c12bf2a3d586bcfaecd_Texture_1_Texture2D:
-        m_Texture: {fileID: 2800000, guid: d71058783c742e84fb4f230bc231b649, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _SampleTexture2D_dde002122a3646309f3a6c4584c63449_Texture_1_Texture2D:
-        m_Texture: {fileID: 2800000, guid: 2f79fe9c79bd2954ab40f05437d73fcd, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -133,10 +125,6 @@ Material:
     - _Surface: 0
     - _WorkflowMode: 1
     - _ZWrite: 1
-    - _noiseScale: 7.2
-    - _noiseSpeed: 0.3
-    - _noisestrength: 0.38
-    - _speed: 0.3
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
